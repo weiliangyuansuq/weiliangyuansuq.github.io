@@ -1,4 +1,9 @@
-theme: jekyll-theme-tactile
-title: 微量元素
-description: 天马行空 漫无边际
+title: 存显算术
+description: 存显算术
 show_downloads: false
+baseurl: ""
+url: "https://blog.hue3.com"
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-tactile
